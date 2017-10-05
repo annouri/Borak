@@ -5,8 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp2"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="700" Width="1315.2">
+
     <Grid>
-        
+        <Image Margin="0,0,-56.2,0.4" Source="city-wallpaper-47.jpg" Stretch="Fill"/>
+        <Rectangle Fill="#FFA62F91" HorizontalAlignment="Left" Height="670" Stroke="Black" VerticalAlignment="Top" Width="1309" Margin="0,0,-0.2,0" Opacity="0.415"/>
+        <Image Margin="609,149,571.8,393.4" Source="sms.png" Stretch="Fill"/>
+        <Label Content="username" HorizontalAlignment="Left" Margin="497,369,0,0" VerticalAlignment="Top" FontSize="18" Foreground="#FFFFFEFE"/>
+        <Label Content="password" HorizontalAlignment="Left" Margin="500,432,0,0" VerticalAlignment="Top" FontSize="18" Foreground="#FFFFFEFE"/>
+        <Button Content="Login" HorizontalAlignment="Left" Margin="795,516,0,0" VerticalAlignment="Top" Width="119" Background="#FF36AB83" Foreground="#FFFCF7F7" FontSize="14" Height="32"/>
+
     </Grid>
 </Window>
