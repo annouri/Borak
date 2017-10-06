@@ -105,5 +105,32 @@
   <ItemGroup>
     <Resource Include="city-wallpaper-47.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="background-bridge.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="user-silhouette.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="padlock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="chat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="chat %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="pexels-photo-573564.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="pexels-photo-267569.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="speech-bubble.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="chat-bubbles.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

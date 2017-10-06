@@ -5,15 +5,23 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApp2"
         mc:Ignorable="d"
-        Title="MainWindow" Height="700" Width="1315.2">
+        Title="MainWindow" Height="839.875" Width="1524.2">
 
     <Grid>
-        <Image Margin="0,0,-56.2,0.4" Source="city-wallpaper-47.jpg" Stretch="Fill"/>
-        <Rectangle Fill="#FFA62F91" HorizontalAlignment="Left" Height="670" Stroke="Black" VerticalAlignment="Top" Width="1309" Margin="0,0,-0.2,0" Opacity="0.415"/>
-        <Image Margin="609,149,571.8,393.4" Source="sms.png" Stretch="Fill"/>
-        <Label Content="username" HorizontalAlignment="Left" Margin="497,369,0,0" VerticalAlignment="Top" FontSize="18" Foreground="#FFFFFEFE"/>
-        <Label Content="password" HorizontalAlignment="Left" Margin="500,432,0,0" VerticalAlignment="Top" FontSize="18" Foreground="#FFFFFEFE"/>
-        <Button Content="Login" HorizontalAlignment="Left" Margin="795,516,0,0" VerticalAlignment="Top" Width="119" Background="#FF36AB83" Foreground="#FFFCF7F7" FontSize="14" Height="32"/>
+        <Rectangle Fill="#FF0B0B0C" HorizontalAlignment="Left" Height="46" Margin="54,414,0,0" Stroke="Black" VerticalAlignment="Top" Width="326" Opacity="0.15"/>
+        <Rectangle Fill="#FF0B0B0C" HorizontalAlignment="Left" Height="46" Margin="54,494,0,0" Stroke="Black" VerticalAlignment="Top" Width="326" Opacity="0.15"/>
 
+        <TextBox HorizontalAlignment="Left" Height="46" Margin="123,412,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="257" Background="{x:Null}" TextChanged="TextBox_TextChanged" Foreground="#FF494747" FontSize="16" VerticalContentAlignment="Center" BorderBrush="{x:Null}" SelectionBrush="#FFF6F7F7"/>
+        <TextBox HorizontalAlignment="Left" Height="46" Margin="123,492,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="257" Background="{x:Null}" TextChanged="TextBox_TextChanged" Foreground="#FF494747" FontSize="16" VerticalContentAlignment="Center" BorderBrush="{x:Null}" SelectionBrush="#FFEFF2F5"/>
+        <Button Content="Login" HorizontalAlignment="Left" Margin="54,572,0,0" VerticalAlignment="Top" Width="326" Height="46" Background="#FF4D514D" Foreground="#FFF9F6F6"/>
+        <Label Content="Forgot your password ?" HorizontalAlignment="Left" Margin="152,659,0,0" VerticalAlignment="Top" Foreground="#FF213C85" Opacity="0.8"/>
+
+        <Label Content="Email" HorizontalAlignment="Left" Margin="63,423,0,0" VerticalAlignment="Top" Foreground="#FF130F0F"/>
+        <Label Content="Passwrod" HorizontalAlignment="Left" Margin="63,506,0,0" VerticalAlignment="Top" Foreground="#FF130F0F"/>
+
+        <Rectangle Fill="#FFA9B017" HorizontalAlignment="Left" Height="809" Stroke="Black" VerticalAlignment="Top" Width="1080" Opacity="0.2" Margin="426,0,0,0"/>
+        <Image Margin="426,0,-123,0" Source="pexels-photo-267569.jpeg" Stretch="Fill"/>
+        <Image Margin="152,185,1236,496" Source="chat-bubbles.png" Stretch="Fill" Opacity="0.8"/>
     </Grid>
+
 </Window>
