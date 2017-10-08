@@ -1,0 +1,17 @@
+C:\Users\ZERO\source\repos\send-app\send-app\bin\Debug\send-app.exe.config
+C:\Users\ZERO\source\repos\send-app\send-app\bin\Debug\send-app.exe
+C:\Users\ZERO\source\repos\send-app\send-app\bin\Debug\send-app.pdb
+C:\Users\ZERO\source\repos\send-app\send-app\obj\Debug\send-app.csprojResolveAssemblyReference.cache
+C:\Users\ZERO\source\repos\send-app\send-app\obj\Debug\MainWindow.g.cs
+C:\Users\ZERO\source\repos\send-app\send-app\obj\Debug\App.g.cs
+C:\Users\ZERO\source\repos\send-app\send-app\obj\Debug\send-app_MarkupCompile.cache
+C:\Users\ZERO\source\repos\send-app\send-app\obj\Debug\send-app_MarkupCompile.lref
+C:\Users\ZERO\source\repos\send-app\send-app\obj\Debug\MainWindow.baml
+C:\Users\ZERO\source\repos\send-app\send-app\obj\Debug\send-app.g.resources
+C:\Users\ZERO\source\repos\send-app\send-app\obj\Debug\send_app.Properties.Resources.resources
+C:\Users\ZERO\source\repos\send-app\send-app\obj\Debug\send-app.csproj.GenerateResource.Cache
+C:\Users\ZERO\source\repos\send-app\send-app\obj\Debug\send-app.csproj.CoreCompileInputs.cache
+C:\Users\ZERO\source\repos\send-app\send-app\obj\Debug\send-app.exe
+C:\Users\ZERO\source\repos\send-app\send-app\obj\Debug\send-app.pdb
+C:\Users\ZERO\source\repos\send-app\send-app\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ZERO\source\repos\send-app\send-app\bin\Debug\Newtonsoft.Json.xml
